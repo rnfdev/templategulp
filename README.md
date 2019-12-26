@@ -1,0 +1,2 @@
+# templategulp
+template-static-gulp
